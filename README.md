@@ -1,16 +1,34 @@
-## Hi there 👋
+# 💻 Seja bem-vindo ao meu perfil! 🚀
 
-<!--
-**deathnesmousnis2/deathnesmousnis2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+       ____         ____        __      __          
+      /\  _`\      /\  _`\     /\ \    /\ \         
+      \ \ \/\ \    \ \,\L\_\   \_\ \   \_\ \     __  
+       \ \ \ \ \    \/_\__ \   /'_` \  /'_` \  /'__`\
+        \ \ \_\ \     /\ \L\ \/\ \L\ \/\ \L\ \/\  __/
+         \ \____/     \ `\____\ \___,_\ \___,_\ \____\
+          \/___/       \/_____/\/__,_ /\/__,_ /\/____/
+                                                  
+## 🛠️ **Habilidades** 🛠️
 
-Here are some ideas to get you started:
+Tenho interesse pela área de **full-stack**, e minhas linguagens de programação principais são:
+- **JavaScript**
+- **Python**
+- **Node.js**
+- **MongoDB**
+- **React**
+- **Express.js**
+- **TypeScript**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 **Projetos** 🚀
+
+Atualmente, estou trabalhando em projetos pequenos para auxiliar nos meus estudos, poderá ver os mesmos em meu perfil, também tenho interesse em contribuir com qualquer projeto **open source**.
+
+---
+
+## 📚 **Objetivos** 📚
+
+Meu objetivo atual é estudar **ciências da computação** e **matemática** por conta própria, através de livros e cursos na internet. Quero aprimorar meu conhecimento na área de exatas e tecnologia, além de entender como tudo funciona "por baixo dos panos".
+
+---
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deathnesmousnis2&show_icons=true&theme=radical)
+---
