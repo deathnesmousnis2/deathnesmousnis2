@@ -27,7 +27,7 @@ Atualmente, estou trabalhando em projetos pequenos para auxiliar nos meus estudo
 
 ## 📚 **Objetivos** 📚
 
-Meu objetivo atual é estudar **ciências da computação** e **matemática** por conta própria, através de livros e cursos na internet. Quero aprimorar meu conhecimento na área de exatas e tecnologia, além de entender como tudo funciona "por baixo dos panos".
+Estudante de **ciências da computação** na UNIFACS, e estudando **matemática** por conta própria, através de livros e cursos na internet. Quero aprimorar meu conhecimento na área de exatas e tecnologia, além de entender como tudo funciona "por baixo dos panos".
 
 ---
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=deathnesmousnis2&show_icons=true&theme=radical)
