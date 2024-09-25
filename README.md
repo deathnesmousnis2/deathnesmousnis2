@@ -1,4 +1,4 @@
-# 💻 Seja bem-vindo ao meu perfil! 🚀
+# 💻 Seja bem-vindo(a) ao meu perfil! 🚀
 
        ____         ____        __      __          
       /\  _`\      /\  _`\     /\ \    /\ \         
@@ -10,14 +10,19 @@
                                                   
 ## 🛠️ **Habilidades** 🛠️
 
-Tenho interesse pela área de **full-stack**, e minhas linguagens de programação principais são:
+Tenho interesse por quase todas as áreas de programação, e minhas linguagens de programação principais são:
 - **JavaScript**
 - **Python**
 - **Node.js**
-- **MongoDB**
-- **React**
-- **Express.js**
-- **TypeScript**
+- **MySQL**
+- **C**
+- Powershell
+- bash
+## 🧠 **ESTUDOS ATUAIS** 🧠
+
+Atualmente estou estudando Pentest, area de cibersegurança, Já possuo conhecimentos sobre redes, modelo OSI e TCP/IP, Estrutura, topologia, etc.
+Agora estou na parte de exploits e como desenvolvê-los para melhorar a segurança na internet, possuo conhecimentos e sei usar ferramentas como
+wireshark, tcpdump, nmap, hydra, burpsuit.
 
 ## 🚀 **Projetos** 🚀
 
