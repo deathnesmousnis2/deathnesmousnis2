@@ -16,8 +16,8 @@ Tenho interesse por quase todas as áreas de programação, e minhas linguagens 
 - **Node.js**
 - **MySQL**
 - **C**
-- Powershell
-- bash
+- **Powershell**
+- **Bash**
 ## 🧠 **ESTUDOS ATUAIS** 🧠
 
 Atualmente estou estudando Pentest, area de cibersegurança, Já possuo conhecimentos sobre redes, modelo OSI e TCP/IP, Estrutura, topologia, etc.
